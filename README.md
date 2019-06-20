@@ -10,8 +10,8 @@ This program converts every single character in a message into musical notes and
 # Usage
 Create a MIDI File with your hidden message
 
-- MHMBEncoder.exe -i <FileText> -o <MidiFile> -k <Key (Only Numbers> ---
+- MHMBEncoder.exe -i <FileText> -o <MidiFile> -k <Key (Only Numbers)> 
 
 Decode MIDI File
 
-- MHMBDecoder.exe -i <MidiFile> -k <Key (Only Numbers)> ---
+- MHMBDecoder.exe -i <MidiFile> -k <Key (Only Numbers)>
