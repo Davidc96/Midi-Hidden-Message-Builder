@@ -1,4 +1,4 @@
-# Midi-Hidden-Message-Builder
+# Midi Hidden Message Builder
 Create a MIDI File using your hidden message.
 
 This program converts every single character in a message into musical notes and add it into a MIDI File
